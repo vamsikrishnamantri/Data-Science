@@ -1,2 +1,2 @@
 # Data-Science
-Contains all Data Science Projects And Programs.
+Here you will get all the projects and Tasks of datascience.
